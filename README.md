@@ -49,7 +49,7 @@ While the bonus group was ~4 seconds faster on average, results were not statist
 
 - Yashaswini Reddy
 - Sambisha Godi
-- Yanhao Li
+- Yuanhao Li
 - Abdul Majid
 - Samuel Buelvas
 
