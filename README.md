@@ -75,7 +75,6 @@ While the bonus group was ~4 seconds faster on average, results were not statist
 
 ##  Course Information
 
-**Professor:** [Professor Name]  
 **Course:** BA830 - Business Experimentation and Causal Methods  
 **Term:** Spring 2026  
 **Institution:** Boston University
